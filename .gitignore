@@ -1,6 +1,7 @@
 /zlib/
 /icu/
 /pcre2/
+/libffi/
 /cmake/
 /python/
 /qt/
