@@ -3,6 +3,7 @@
 /pcre2/
 /libffi/
 /pkg-config/
+/glib/
 /cmake/
 /python/
 /qt/
