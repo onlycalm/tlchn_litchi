@@ -2,6 +2,7 @@
 /icu/
 /pcre2/
 /libffi/
+/pkg-config/
 /cmake/
 /python/
 /qt/
